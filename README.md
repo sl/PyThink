@@ -1,4 +1,4 @@
-# PyThink, therefore I Am
+# PyThink, Therefore I Am
 
 PyThink is a python Neural Network library with support for hardware acceleration. It the neural network library behind, and is being developed alongside [Babble](https://github.com/sl/babble).
 
